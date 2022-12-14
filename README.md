@@ -11,9 +11,9 @@
 
 <h2> About Min:</h2>
 
-- 🫶Pleasure, welcome to the profile of the most meaningless guy you'll see today; <br>
-- 🔑 Currently work for myself, in my own venture; <br>
-- 🎮 Extremely passionate about games;<br>
-- 🎓 Veteran in Ed. Physics and Freshman in History(Nothing to do with technology).<br>
+- 🫶Welcome to the profile of the most meaningless guy you'll see today; <br>
+- 🔑Currently work for myself, in my own venture; <br>
+- 🎮Extremely passionate about games;<br>
+- 🎓Veteran in Ed. Physics and Freshman in History(Nothing to do with technology).<br>
 
 <h2>Thanks for dropping by!</h2>
